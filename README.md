@@ -4,3 +4,5 @@ Comgrads is specifically designed for students all over the world to connect wit
 Students are required to select either course or competitions option
 From there, the students directed towards the platform where they can either swipe right if they like the course/competition and left if they are not interested in that particular competition/course
 The details of the courses and competitions are visible through "i" button located on the currently open card.
+Comgrads Home Page-https://kkanoo.github.io/Comgrads_Home_Page/
+Comgrads App Link-https://comgrads.herokuapp.com/
